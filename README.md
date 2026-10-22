@@ -19,4 +19,4 @@ Platforms I use regularly, especially since I manage environments and projects f
 
 ## Hardware / Homelab
 
-https://www.devdaikon.com/docs/homelab
+[denhlab](denhlab.com)
