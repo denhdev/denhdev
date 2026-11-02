@@ -19,4 +19,4 @@ Platforms I use regularly, especially since I manage environments and projects f
 
 ## Hardware / Homelab
 
-[denhlab](denhlab.com)
+[denhlab](https://denhlab.com)
